@@ -1,4 +1,4 @@
 yii-datadictionary
 ==================
 
-Yii Data Dictionary Generator, a simple data dictionary generator database metadata from comments in tables and columns
+Yii Data Dictionary Generator, a simple data dictionary generator from metadata database comments in tables and columns
